@@ -1,0 +1,4 @@
+- Fork this repository.
+- Create new branch in feat/*.
+- Commit your proposal with good message.
+- Open pull request before merging it.
