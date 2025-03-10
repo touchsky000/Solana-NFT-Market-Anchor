@@ -22,7 +22,7 @@ This contains:
 # How to run?
 - Clone this repo
     ```
-    git clone https://github.com/toygr/solana-nft-example.git
+    git clone https://github.com/touchsky000/solana-nft-example.git
     cd solana-nft-example
     ```
 - Sync keys
